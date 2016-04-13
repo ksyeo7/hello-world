@@ -1,2 +1,4 @@
 # hello-world
-Repositoty Test
+Repository Test
+
+About myself
